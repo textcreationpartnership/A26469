@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to the nobility, gentry, &amp; commonalty of this nation in the qualifications and election of their knights and burgesses, their representatives in Parliament humbly offered unto their serious consideration / by Robert Tell-Truth.</title>
+            <author>Tell-Truth, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26469</idno>
+            <idno type="STC">Wing A660</idno>
+            <idno type="STC">ESTC R19296</idno>
+            <idno type="EEBO-CITATION">12672337</idno>
+            <idno type="OCLC">ocm 12672337</idno>
+            <idno type="VID">65501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65501)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 679:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to the nobility, gentry, &amp; commonalty of this nation in the qualifications and election of their knights and burgesses, their representatives in Parliament humbly offered unto their serious consideration / by Robert Tell-Truth.</title>
+                  <author>Tell-Truth, Robert.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65501:1"/>
+            <head>ADVICE TO THE <hi>NOBILITY, GENTRY,</hi> &amp; <hi>COMMONALTY</hi> OF THIS NATION IN THE Qualifications and Election Of Their Knights and Burgeſſes, Their REPRESENTATIVES in PARLIAMENT.</head>
+            <head type="sub">Humbly offered unto their Serious Conſideration,</head>
+            <byline>By <hi>Robert Tell-Truth.</hi>
+            </byline>
+            <p>FAction in all Ages hath been ſuch, and ever had her Tricks, and play'd them generally in the Fear of <hi>God,</hi> and with ſtrange Succeſs; but had the Ill-Luck in <hi>Forty-Eight,</hi> to loſe her Mask in that <hi>Pious Tragedy;</hi> and cannot again ſoon ap<g ref="char:EOLhyphen"/>pear with Confidence in her <hi>Religious Dreſs,</hi> becauſe the <hi>Holy Cheat is</hi> too well known, to Take twice in one Age: And therefore, the <hi>Godly Brethren</hi> begin a New Game, (Look about you Gentlemen!) and not as before, in <hi>Nomine Domini,</hi> but <hi>Popu<g ref="char:EOLhyphen"/>li;</hi> and make the Intereſt of the People, their Stall now,—as they did plead the Fear of <hi>God</hi> before.</p>
+            <p>One while we know, 'twas <hi>Puritan</hi> that did <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>well in its <hi>Generation;</hi> after it was the <hi>Godly;</hi> and then the <hi>Sober Party:</hi> But becauſe <hi>True Sobriety,</hi> and <hi>Godlyneſs,</hi> were at laſt a ſcarce Commodity amongſt the <hi>Good Brethren,</hi> as well as the <hi>Wicked;</hi> Theſe Diſtinctions, by degrees began to wear away, and almoſt quite to be lay'd by; and now they have a New <hi>Shiboleth,</hi> though but that ſame Cauſe: And now 'tis <hi>Country-Man,</hi> and <hi>Courtier;</hi> and in at this <hi>Country-Man's</hi> Door, all Miſchief is like to Creep: For though the Word in its Natural Significancy, notes nothing but a<g ref="char:EOLhyphen"/>bundance of Plainneſs and Honeſty; yet being got into the <hi>Saints Dictionary,</hi> it now be<g ref="char:EOLhyphen"/>gins to be of the ſame Import with any of the other <hi>Godly Names,</hi> and <hi>Phraſes,</hi> they
+<pb n="2" facs="tcp:65501:2"/>uſe to ſtile Themſelves and Party by. And now 'tis a Word, that, like the <hi>Troj<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Horſe, is <hi>Milite Plenus,</hi> full of Wild-Fire and Miſchief; or, like <hi>Elimas</hi> the Sorcerer, full of all ſubtilty and Craft: For, let a man be the bitt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſt Enemy to <hi>King</hi> and <hi>Church,</hi> yet if he can but obtain this Title of <hi>Count<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y-Man,</hi> and ſet him declare at the Head of any Faction whatever, That he will ſtand up for the good of the <hi>Coun<g ref="char:EOLhyphen"/>trey,</hi> in Oppoſition to the <hi>Court-Intereſt,</hi> and his buſineſs is effectually done; he ſhall moſt certainly be Choſen for any Place he ſtands for, and the moſt ſober, prudent, and worthy <hi>Patriot,</hi> and whatever, may not be fit to be a <hi>Competitor</hi> with him. And this I, and many more, can ſpeak upon too ſad experience: For in a little Election in our Parts, I ſaw a moſt incomparable Perſon thrown by, with Shame and Diſgrace, meerly by this Stratagem.</p>
+            <p>I cannot therefore chuſe, but give the <hi>Country a Caution,</hi> and a juſt Senſe of this New Artifice; and how miſchievous it is like to be to the <hi>King</hi> and <hi>Church,</hi> if not in time detected. And this perhaps, may be a good Hint for others to deſcribe it better.</p>
+            <p>The Plot, Gentlemen, was this<g ref="char:punc">▪</g> To get this <hi>Parliament</hi> by any Arts whatever, Diſ<g ref="char:EOLhyphen"/>ſolved: And why? Not that they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o any thing that is ſhort of the Wiſdom and Gra<g ref="char:EOLhyphen"/>vity of ſo great an <hi>Aſſembly;</hi> ſaving this, that they are Good <hi>Church-Men,</hi> (and this Crime enough with the <hi>Brethren</hi> and they will not allow of either a <hi>Romiſh</hi> or <hi>Scot<g ref="char:EOLhyphen"/>tiſh Phanatick;</hi> neither Tolleration, nor Comprehenſion, will they ſwallow: And there<g ref="char:EOLhyphen"/>fore, no <hi>Parliament</hi> ſay the <hi>Kir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Men;</hi> and they muſt be ſent Home again, and a New One choſe. But will the next be betrer in their Senſe? Ye<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> undoubtedly: For thoſe buſie Men have for ſome Years laſt paſt, ſo poſſeſt the Minds of t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e People againſt the <hi>Court</hi> and <hi>Biſhops,</hi> and under-hand, the <hi>King</hi> too; and ſo endeared them to their publick Spirited Men, which they called <hi>Count<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ey-Men;</hi> that now ſuch Perſons, as they give that Title to, ſhall infallibly have the Peoples Hearts and Votes; and be the <hi>Lads</hi> that muſt make up the next <hi>Houſe of Commons,</hi> and Retrieve the <hi>Godly dying Cauſe,</hi> before it quite Expire, and Bleed to Death. And the Cunning of theſe Deſigning Men is ſuch, that there are but ſome f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w neither, of theſe Good <hi>Countrey-Men</hi> (here and there one) that ſhall be cryed up as ſuch: And thoſe are either Earmarked already in the late <hi>War;</hi> or ſuch as are ſprung out of that <hi>Holy-Seed,</hi> or as do ſecretly give Teſtimony of their An<g ref="char:EOLhyphen"/>tipathy againſt <hi>Court, Biſhops,</hi> and (when with a Confiding <hi>Brother</hi>) <hi>King</hi> too. But be ſure, ſuch are as hop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful, at leaſt, ſhall have this Title conferred on them. So that now the Title begins to have Rebellion, and Phanatiſme in the Belly on't; and is all well, fitted for the <hi>Phanaticks</hi> turn, if not better then any other of their <hi>Godly Names</hi> and <hi>Titles</hi> were.</p>
+            <p>Anſt indeed, it is ſo ſtrangely taking, not only with the credulous <hi>Populacy,</hi> but even the <hi>Old Cavalier.</hi> — And the <hi>King's</hi> beſt Friends ſuffer themſelves to be impoſed upon, and wheedled by it; and think, there is ſomething that is Good and Uſeful in it, for the Nation; which ſeems to Bode as ill to the <hi>King</hi>'s Intereſt, as any thing yet. For which Cauſe it is, that I am ſo bold to trouble the Countrey with my Senſe about it; and how the <hi>One</hi> came to be in ſo much Eſteem, and the <hi>Other</hi> a Note of Infamy and Diſgrace.</p>
+            <p>The Word <hi>Courtier</hi> in its Primitive Senſe, did note One that did attend on the Per<g ref="char:EOLhyphen"/>ſon of the <hi>King,</hi> or was imployed by him in any conſiderable Office at <hi>Court;</hi> and that did him faithful Service in thoſe Truſts. And originally, it was never any Shame or Diſgrace to the beſt of Men in the <hi>Cauntrey,</hi> (<hi>Peers</hi> and Others) to Serve at <hi>Court,</hi> and Attend the Pleaſure of their <hi>Prince,</hi> till the <hi>Saints</hi> made it ſo: Nay, it was al<g ref="char:EOLhyphen"/>wayes thought an Honor, to be admitted to theſe <hi>Courtly</hi>-Attendance; and the <hi>Country</hi> thought; they could not do themſelves a greater Service, than to Chooſe ſuch (neither indeed can they) for their Repreſentatives in <hi>Parliament,</hi> that were near the <hi>King;</hi> That ſo they might have an occaſion to make known the State of the <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> and the Wants and Grievances of the <hi>People,</hi> when need required; and to have an opportunity to Redreſs them. But how <hi>Courtier</hi> in our Dayes, ſhould come to ſo de<g ref="char:EOLhyphen"/>generate a Senſe, as to denote (if ſome may Expound it) an Enemy to <hi>Law,</hi> and <hi>Li<g ref="char:EOLhyphen"/>berty,</hi> and <hi>Propriety,</hi> and every Thing that is dear to the People, is ſtrange: And how <hi>Countrey-Man,</hi> which is a Word of great <hi>Plainneſs, Integrity,</hi> and <hi>Loyalty,</hi> if Honeſt Men may gloſs it; and how, I ſay, this Innocent name ſhall denote every thing that is Miſchievous to His <hi>Majeſty,</hi> and directly oppoſite to the intereſt of <hi>White-Hall,</hi> is more ſtrange. But the truth on't is, the Caſe now is come to this, That no Man what<g ref="char:EOLhyphen"/>ever,
+<pb n="3" facs="tcp:65501:2"/>can attend the Perſon of the <hi>King,</hi> or ſerve him in any of the moſt Honourable Of<g ref="char:EOLhyphen"/>fices at <hi>Court,</hi> and that ſometime with the Exqence of his own Eſtate and Fortune: but he muſt be looked upon as a dangerous Perſon to the People, and as the worſt of Men, that is a <hi>Courtier.</hi> And on the other ſide, Let a Man be what he will, as bad as <hi>Twenty</hi> years Rebellion, and Converſation with Bloud and War could make him; yet if no <hi>Courtier,</hi> he ſhall be the Darling, and the Delight of the People, and ſhall com<g ref="char:EOLhyphen"/>mand their Votes and Suffrage. Let him be a Man of Sacriledge and Violence to <hi>God,</hi> and his <hi>Church;</hi> Let him hold his own and other Men's Lands, by the ſtrength of two <hi>Acts of Indemnity:</hi> Let him be for <hi>Rebellion, Schiſm, Faction, Tolleration, Com<g ref="char:EOLhyphen"/>prehenſion,</hi> or whatever elſe is Dear and Precious in the <hi>Saints eſteem;</hi> if he write but <hi>Country-Man,</hi> he is ſure to carry the Day. Not that I think 'tis Eſſential to all Men that live in the <hi>Country,</hi> that have no Imploy at <hi>Court;</hi> to be endowed with theſe Ex<g ref="char:EOLhyphen"/>cellent Qualities: God forbid! But this I ſay, But all men of theſe Miſchievous Prin<g ref="char:EOLhyphen"/>ciples, againſt <hi>King</hi> and <hi>Church,</hi> that have any Deſigne to inſinuate into the People, to creep into Place and Power, where the People can help them, they get in by this Artifice; And all Perſons of the moſt Eminent Loyalty and Integrity that oppoſe them, and are not Competitors with them, are caſt off with this Stratagem, <hi>Theſe are for the Court Party,</hi> when perhaps they have no Concern there at all. So that in a very ſhort time 'tis like to come to this, That none muſt be accounted <hi>Lovers of the Country,</hi> but the <hi>Enemies of the King:</hi> And 'tis pretty near it now: For, let theſe Gentlemen that ſeem to be ſo taken with this Diſtinction now, conſider well, and con<g ref="char:EOLhyphen"/>ſult their own Experience, and they ſhall find, that all the <hi>Elections</hi> for <hi>Knights</hi> and <hi>Burgeſſes</hi> of late, in any of the <hi>Counties,</hi> and <hi>Corporations</hi> of the <hi>Land,</hi> have been en<g ref="char:EOLhyphen"/>deavoured to have been filled with ſuch <hi>Leavenned Men;</hi> and under that Notion of <hi>Good Country-Men</hi> only. And in a little time, it is to be feared, that the Populacy will confirm it, as the <hi>Cunning Men</hi> deſign it to a <hi>Phanatick</hi> only: And an old faſhi<g ref="char:EOLhyphen"/>oned <hi>Loyal Cavalier,</hi> muſt not think to ſhew his Head upon any Publick — leſt he be deemed a <hi>Courtier.</hi> For the people are taught to believe, that neither the <hi>King,</hi> nor any about him, nor indeed, any that are highly for him, have any true Love for the <hi>Country;</hi> but that they deſign to Enſlave them, and their Eſtates, and to bring all under an <hi>Arbitrary Power</hi> and <hi>Bondage.</hi> And from this groſs, leud, and Falſe Con<g ref="char:EOLhyphen"/>ceit, they conclude, That it concerns all that Love Themſelves, or their Poſterities, to oppoſe with Might and Main, the <hi>Court,</hi> and all that adhere to it: And he that ſo doth, is a True Lover of the <hi>People,</hi> and a down-right <hi>Country-Man.</hi> And we find this Name made uſe of always, to ſerve the moſt Diſloyal and Phanatick Ends, and Pur<g ref="char:EOLhyphen"/>poſes, in all Counties: and it ſeems to be as well fitted for thoſe Ends, as any of the former Religious Names of <hi>Sober</hi> and <hi>Godly Party</hi> were, and better for thoſe that will not be wrought upon by <hi>Pious Pretences,</hi> and <hi>Religious Arts,</hi> and <hi>Wheedles:</hi> Yet will be ſtrangely affected, when they are told, that their Secular Concerns are in Danger. And any that pretend ſo much Love to Them, as to ſtand up againſt all Underminers of theſe their Dear <hi>Diana</hi>'s, ſhall be ſure to be their <hi>Darling</hi> for ever: For we ſee, the Generality of the <hi>Country</hi> have more Care for their <hi>Commons,</hi> and <hi>Country Priviledges,</hi> than for their <hi>Conſciences:</hi> Nay, will often venture Them, to ſe<g ref="char:EOLhyphen"/>cure thoſe. And thoſe Perſons, for inſtance, that declare for this one thing, <hi>viz.</hi> A<g ref="char:EOLhyphen"/>gainſt giving away the <hi>Countries Monies,</hi> (be the Occaſions of State, what the will) except by it, they can hope to make New and Great Incroachments upon the <hi>Prerogative,</hi> ſhall be accounted the <hi>Countries Friends</hi> for ever, and never want their Vote at any time.</p>
+            <p>So that you ſee 'tis a very ſerviceable, cunning, and mighty obliging Diſtinction; and is the likelieſt to pull down <hi>White-hall</hi> of any yet; and principally for this reaſon, becauſe it obtains ſo much amongſt the <hi>Royal Party.</hi> For as they were always a ſort of good Natured Perſons, and innocent themſelves, ſo were apt ever to believe well of others too, and to be caught with fine Names, till they had believed themſelves into the <hi>Saints Yoke,</hi> and their Families into want, and their Eſtates into villainage; and ſo will do Agen, if they be not very wary.</p>
+            <p>The truth of it is, the ſuffering <hi>Cavalier</hi> had the moſt reaſon at firſt, to allow this diſtinction of any Man; and I am almoſt in the mind, was the firſt that made it, — But then it was upon a particular reaſon, and that at a particular time. I will not ſay how reaſonable and juſt his diſcontents then were; but certainly the then New States-men in <hi>Sixty</hi> and upwards laid the Ax to the Root of the Royal-Oak,
+<pb n="4" facs="tcp:65501:3"/>when they purſued that curſed Rule in their New politicks, <hi>Obliege your Enemies, you are ſure of your Friends;</hi> which blew up more of the Royal party, then either <hi>Cromwells</hi> Plots or Army; and was more diſtructive to them, than that fatal <hi>Naſeby;</hi> for then ſome E<g ref="char:EOLhyphen"/>ſcaped, but this Maxime Kills all if well followed, and that in their own Quarters; and makes their dear Soveraigne (for whom they fought) to be their executioner; this kind of uſage, no doubt, exaſperated the Kings ſuffering friends, if not againſt the Cauſe, yet againſt the then Court; and gave them too great occaſion to believe, they had worſe ene<g ref="char:EOLhyphen"/>mies at <hi>Whitehall</hi> when the <hi>KING</hi> was come home, than before; for before, they had but what they looked for; but to be ſplit in their Harbour, and to revive their greateſt Stabbs from the Court-friends, went to the very heart; and hence I fear, came the op<g ref="char:EOLhyphen"/>poſition between the Court and Country. But now Gentlemen, conſider thoſe States<g ref="char:EOLhyphen"/>men are dead, and their politicks ſtink, as well as their names; and thoſe New-ruling men, that drew ſword both againſt Father and Son, and ſucked of the ones blood, and the o<g ref="char:EOLhyphen"/>thers Wine, are moſt of them gone to their place; and Loyalty that then Languiſht, be<g ref="char:EOLhyphen"/>gins now to revive, and meets with better encouragement, then when Rebels and Regi<g ref="char:EOLhyphen"/>cides were in place and power; and now his Majeſty ſees with his own ſpectacles &amp; knows (God bleſs him) though at too dear a rate, that the old Cavelier is the beſt Subject, and loves and ſerves him beſt, and is trueſt to his intereſt; and that all others pretend they what they will, are hollow at the heart, and will love as they obey, with abundance of diſtinction and caution; that is, juſt ſo well as may conſiſt with their brethrens, their own, and their cauſes intereſt; Now then, there is not the ſame reaſon for theſe mens prejudices againſt the Court, as once there was; for Sir. <hi>John Fresbyter</hi> is now pretty well known, and perhaps is the moſt contemptible of all pretenders to an intereſt there; and therefore is fain to uſe his old Tricks, and his new <hi>Shibboleth,</hi> to creep into Place and Power to ſave a ſinking, and dying cauſe: and if the Gentry and Nobility would keep from a ſecond time, under the Fanatick Tyranny, and from Grinding any more in theſe <hi>Philiſtine</hi> mills, they muſt not allow of ſuch ſerviceable diſtinctions as thoſe are for their cuning purpoſes. Chooſe therefore of the Country men for your Repreſentatives, men of Religion and Loyalty, that love the <hi>Church</hi> and <hi>KING;</hi> and be ſure there is no danger in ſuch; but all others whatſoever, let them pretend what they will, are hollow within, and mean no good to either God or Church, to King or Country, but are, by their old ſlie Tricks, and new Artifices, ſeeking an opportunity of deſtroying a glorious Church a ſe<g ref="char:EOLhyphen"/>cond time; and of Acting the ſecond part of the ſame Tragedy; and inſinuating Agen, craftily into the good opinions of the people, by the pretences of Love and Zeal to their good and welfare. Of theſe beware, and take this as a certain truth; that a houſe of Commons made up of ſuch Country-men as the pretended Godly party cry up, will be the moſt Antimonarchical ſeditious, and Fanatical Aſſembly in the Chriſtian world. From which, <hi>Good Lord Deliver us.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
